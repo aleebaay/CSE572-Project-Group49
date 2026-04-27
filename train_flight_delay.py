@@ -232,7 +232,7 @@ def save_confusion_matrix(y_true, y_pred, title, path):
 
 
 def main():
-    args = build_arg_parser().parse_args()
+    args = build_arg_parser().parse_args(args=[])
     data_path = Path(args.data)
     outdir = Path(args.outdir)
     outdir.mkdir(parents=True, exist_ok=True)
