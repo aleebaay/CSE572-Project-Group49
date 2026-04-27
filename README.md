@@ -11,6 +11,7 @@ A leakage-safe binary classification pipeline for predicting whether a flight de
 ## Data
 Use the Kaggle flight dataset file:
 `Combined_Flights_2022.csv`
+[Download from Kaggle](https://www.kaggle.com/code/robikscube/flight-delay-exploratory-data-analysis-twitch/input?select=Combined_Flights_2022.csv)
 
 Place the CSV in the same folder where you run the script, or pass its path with `--data`.
 
