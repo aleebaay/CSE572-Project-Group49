@@ -15,7 +15,9 @@ Use the Kaggle flight dataset file: `Combined_Flights_2022.csv`
 Place the CSV in the same folder where you run the script, or pass its path with `--data`.
 
 ## Run
+
 First, install the dependencies:
+
 ```bash
 pip install -r requirements.txt
 
