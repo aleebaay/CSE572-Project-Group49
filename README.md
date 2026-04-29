@@ -16,7 +16,7 @@ Place the CSV in the same folder where you run the script, or pass its path with
 
 ## Run
 First, install the dependencies:
-```bash
+
 pip install -r requirements.txt
 
 Then, run the script:
